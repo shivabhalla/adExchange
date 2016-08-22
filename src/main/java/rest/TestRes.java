@@ -16,5 +16,6 @@ public class TestRes {
     @GET
     public String testAPI() {
         return "Just For Testing";
+
     }
 }
